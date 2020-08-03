@@ -1,0 +1,54 @@
+html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100vh;
+      background: #000;
+}
+
+.data {
+      font-family: 'Lato', sans-serif;
+      color: #fff;
+      font-size: 100px;
+      letter-spacing: 12px;
+      font-weight: 600;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+}
+
+.socialDiv {
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    color: #fff;
+    text-color
+    position: center;
+    text-align: center;
+}
+
+#Clock {
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+    font-size: 60px;
+    position: center;
+    text-align: center;
+    color: #fff;
+    margin-top: auto;
+}
+
+#twitter {
+    color: white;
+    text-decoration-color: red;
+}
+
+#insta {
+    color: white;
+    text-decoration-color: lightskyblue;
+}
+
+#twitch {
+    color: white;
+    text-decoration-color: mediumpurple;
+}
+
