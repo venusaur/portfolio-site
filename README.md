@@ -1,3 +1,3 @@
 # website
 
-learning web design
+basic web design
